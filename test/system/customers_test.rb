@@ -18,7 +18,6 @@ class CustomersTest < ApplicationSystemTestCase
     fill_in "Email", with: @customer.email
     fill_in "Name", with: @customer.name
     fill_in "Obs", with: @customer.obs
-    fill_in "String", with: @customer.string
     click_on "Create Customer"
 
     assert_text "Customer was successfully created"
@@ -33,7 +32,6 @@ class CustomersTest < ApplicationSystemTestCase
     fill_in "Email", with: @customer.email
     fill_in "Name", with: @customer.name
     fill_in "Obs", with: @customer.obs
-    fill_in "String", with: @customer.string
     click_on "Update Customer"
 
     assert_text "Customer was successfully updated"

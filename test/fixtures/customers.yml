@@ -2,14 +2,12 @@
 
 one:
   name: MyString
-  string: MyString
   email: MyString
   birthday: 2024-10-24
   obs: MyText
 
 two:
   name: MyString
-  string: MyString
   email: MyString
   birthday: 2024-10-24
   obs: MyText

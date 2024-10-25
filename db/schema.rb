@@ -13,7 +13,6 @@
 ActiveRecord::Schema[7.2].define(version: 2024_10_24_194442) do
   create_table "customers", charset: "utf8mb4", collation: "utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.string "name"
-    t.string "string"
     t.string "email"
     t.date "birthday"
     t.text "obs"
