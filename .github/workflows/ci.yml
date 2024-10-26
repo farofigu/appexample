@@ -60,7 +60,7 @@ jobs:
       mysql:
         image: mysql
         env:
-          MYSQL_ALLOW_EMPTY_PASSWORD: no
+          MYSQL_ALLOW_EMPTY_PASSWORD: true
           MYSQL_USER: LOCAL
           MYSQL_PASSWORD: LOCAL
         ports:
