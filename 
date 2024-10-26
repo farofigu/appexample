@@ -1,0 +1,17 @@
+=> 
+[[32m#<Customer:0x0000795e39c35b48[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mFábio Rodrigues Figueiredo[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m,
+  birthday: [31m[1m"[0m[31m1981-04-13[0m[31m[1m"[0m,
+  obs: [31m[1m"[0m[31maprendendo ruby[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-25 23:24:09.927453000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-25 23:24:09.927453000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Customer:0x0000795e39c35a08[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mJosé da Silva Sauro[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m,
+  birthday: [31m[1m"[0m[31m2020-01-25[0m[31m[1m"[0m,
+  obs: [31m[1m"[0m[31mteste[0m[31m[1m"[0m,
+  created_at: [31m[1m"[0m[31m2024-10-26 11:46:49.609837000 +0000[0m[31m[1m"[0m,
+  updated_at: [31m[1m"[0m[31m2024-10-26 11:46:49.609837000 +0000[0m[31m[1m"[0m[32m>[0m]
